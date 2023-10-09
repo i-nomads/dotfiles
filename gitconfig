@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = cyrille@inomads.hk
+	email = cyrille.labesse@proton.me
 	name = Cyrille Labesse
